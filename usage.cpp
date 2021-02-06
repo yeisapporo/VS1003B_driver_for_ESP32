@@ -4,7 +4,6 @@
 #include <FreeRTOS.h>
 
 #include "VS1003Bmp3.hpp"
-#include "testmidi.h"
 
 // SD
 #define SD_SCK  (18)
